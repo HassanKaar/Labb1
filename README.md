@@ -1,5 +1,5 @@
-duck
+Duck
 mahmut
-mouse
-cat
-dog
+Mouse
+Cat
+Dog
